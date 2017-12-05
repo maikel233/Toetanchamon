@@ -5,4 +5,4 @@ Adds several new options if you right click on the players names.
 
 ADD TO GUILD - Quickly adds a player to your current guild
 ADD TO RAID - Quickly adds a player to your current raid
-GET NAME - Prints name to the chat frame
+GET PLAYER NAME - Prints name to the chat frame
