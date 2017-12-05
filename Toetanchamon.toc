@@ -1,0 +1,6 @@
+﻿## Interface: 11200
+## Title: Toetanchamon
+## Version: 1.0
+## Author: Maikel233
+## Notes: Better framework for the WHO list. Created for our Guild Toetanchamon made by Maikel233 | Xploda.
+Toetanchamon.xml
